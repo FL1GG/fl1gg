@@ -5,7 +5,7 @@ Welcome to my Github!
 
 ## 💻 Pursuits
 * Exploring different hacking topics
-* Experimenting with writing styles
+* Experimenting with write ups
 * Working to strengthen my math 
 
 ## 📫 Reach me at
