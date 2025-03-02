@@ -3,16 +3,16 @@
 Welcome to my Github!
 
 
-# 💻 Pursuits
+## 💻 Pursuits
 * Exploring different hacking topics
 * Experimenting with writing styles
 * Working to strengthen my math 
 
-# 📫 Reach me at
+## 📫 Reach me at
 * Email: cafligg20@gmail.com 
 * LinkedIn: https://www.linkedin.com/in/charlie-fligg/
 
-# Spotify Top Track
+## Spotify Top Track
 [![Spotify](/img/today-top.svg)](https://open.spotify.com/embed/track/4Sfa7hdVkqlM8UW5LsSY3F)
 
 <!--
